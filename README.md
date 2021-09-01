@@ -13,15 +13,15 @@ I'm Pabitra, Working at L&T Technology Services as Tech Lead!
 
 🔭 I’m currently working on Philips Vital Health Project
 
-🌱 I’m currently learning Python,CI/CD pipelines.
+🌱 I’m currently learning Python, Jenkins, Terraform, CI/CD pipelines.
 
 🤔 I’m looking for help with Other people and spacially with my team members.
 
 💬 Ask me about anything, I will try to findout solution.
 
-😄 Pronouns:He/Him
+😄 Pronouns: He/Him
 
-📝 Favorite editor: VS Code & Visual Studio IDE
+📝 Favorite editor: VS Code & Visual Studio IDE, SSMS, Notepad++
 
 <img src="https://github-readme-stats.vercel.app/api?username=PabitraSwain-ltts" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabitraSwain-ltts" />
