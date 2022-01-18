@@ -11,7 +11,9 @@ Hi there 👋
 
 I'm Pabitra, Working at L&T Technology Services as Tech Lead!
 
-🔭 I’m currently working on Philips Vital Health Project
+🔭 I'M currently working on Industrial Machinary.
+
+🔭 Worked on Philips Vital Health Project.
 
 🌱 I’m currently learning Python, Jenkins, Terraform, CI/CD pipelines.
 
