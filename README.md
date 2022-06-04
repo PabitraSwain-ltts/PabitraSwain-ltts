@@ -11,7 +11,7 @@ Hi there 👋
 
 I'm Pabitra, Working at L&T Technology Services as Tech Lead!
 
-🔭 I'M currently working on Industrial Machinary.
+🔭 I'M currently working on Industrial Machinary department for Halliburton.
 
 🔭 Worked on Philips Vital Health Project.
 
